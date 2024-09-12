@@ -1,3 +1,2 @@
-# linearRg_fromScratch
-Using a simple and small training set, the jupyter notebook has the implementation of linear regression from scratch, without using tools such as scikit-learn. 
-My goal here were understand how the algorithm works under the hood.
+# ML_fromScratch
+Here you will find some important machine learning algorithm I implement from scratch to understand how all these stuff work under the hood.
